@@ -1,6 +1,6 @@
 Name:		texlive-luapstricks
 Version:	64345
-Release:	1
+Release:	2
 Summary:	A PSTricks backend for LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luapstricks
