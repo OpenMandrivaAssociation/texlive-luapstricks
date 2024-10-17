@@ -3,7 +3,7 @@ Version:	67207
 Release:	1
 Summary:	A PSTricks backend for LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luapstricks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luapstricks
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luapstricks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luapstricks.doc.r%{version}.tar.xz
